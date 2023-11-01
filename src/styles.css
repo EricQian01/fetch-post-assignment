@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.article {
+  text-align: left;
+  margin-left: 1em;
+}
+
+.article span {
+  display: inline-block;
+  margin: 0 1rem;
+  font-size: 0.8em;
+  background: #eaeaea;
+  padding: 0 5px;
+}
